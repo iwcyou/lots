@@ -13,9 +13,9 @@ models=(
     "dlink34_1d"
 )
 random_seed=(
-    0
+    # 0
     42
-    1234
+    # 1234
 )
 for w in "${weight_save_dir[@]}"; do
     for m in "${models[@]}"; do

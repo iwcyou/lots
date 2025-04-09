@@ -274,7 +274,7 @@ if __name__ == "__main__":
     parser.add_argument('--gpu_ids', '-N', type=str, default='0,1,2,3')
     parser.add_argument('--workers', '-w', type=int, default=8)
     parser.add_argument('--epochs', '-e', type=int, default=60)
-    parser.add_argument('--random_seed', type=int, default=0)
+    parser.add_argument('--random_seed', type=int, default=42)
     parser.add_argument('--eval', '-E', type=str, default="")
     args = parser.parse_args()
 
