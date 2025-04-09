@@ -1,4 +1,4 @@
-# LTQS:Improving Road Extraction from Satellite Images with Rich GPS Feature Augmentations
+# LOTS:Improving Road Extraction from Satellite Images with Rich GPS Feature Augmentations
 
 The source code of eccv 2024 paper *"LTQS:Improving Road Extraction from Satellite Images with Rich GPS Feature Augmentations"*
 
